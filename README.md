@@ -43,19 +43,19 @@ This feature enables users to focus on the most relevant metrics for each specif
 * Gross/Net Tickets & Revenue
 * Refund Requests & Amounts
 * On-Time, Delayed, and Cancelled Rides Revenue
-📊 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
-1️⃣ 𝗣𝗼𝗽𝘂𝗹𝗮𝗿 𝗥𝗼𝘂𝘁𝗲𝘀:
+💡 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
+1️ 𝗣𝗼𝗽𝘂𝗹𝗮𝗿 𝗥𝗼𝘂𝘁𝗲𝘀:
 * Manchester Piccadilly to Liverpool Lime Street is the most popular route, with 4,628 rides and £16,976 in net revenue.
 * London Kings Cross to York generates the highest revenue: £179,498 from 3,922 rides.
-2️⃣ 𝗣𝗲𝗮𝗸 𝗧𝗿𝗮𝘃𝗲𝗹 𝗧𝗶𝗺𝗲𝘀:
+2️ 𝗣𝗲𝗮𝗸 𝗧𝗿𝗮𝘃𝗲𝗹 𝗧𝗶𝗺𝗲𝘀:
 * Morning: 6 AM, 7 AM, 8 AM
 * Evening: 4 PM, 5 PM, 6 PM
-3️⃣ 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗕𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻:
+3️ 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗕𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻:
 * Users can observe revenue by purchase type. Online revenue amounts to £383k, while station revenue accounts for £359k.
 * By ticket class, standard class generates £593k, and first class contributes £149k.
 * By payment method, credit card bookings lead with £470k. Users can also analyze revenue from contactless and debit card transactions.
 * Revenue by ticket type shows Advance tickets generated £309,274, Off Peak tickets generated £223,338, and Anytime tickets contributed £209,309.
-4️⃣ 𝗢𝗻 𝗧𝗶𝗺𝗲 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲:
+4️ 𝗢𝗻 𝗧𝗶𝗺𝗲 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲:
 * 86.82% of rides are on time, generating £569,651 in revenue.
 * Delayed and Cancelled rides, often due to weather and signal failures, make up 13.18%.
 📍 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲𝘀 𝗼𝗻 𝗗𝗲𝗹𝗮𝘆𝘀 & 𝗖𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻𝘀:
