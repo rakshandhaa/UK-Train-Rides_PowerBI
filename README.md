@@ -4,8 +4,8 @@
 This project presents a mock dataset of train ticket information for the National Rail service in the UK, covering the period from January to April 2024. 
 The dataset includes comprehensive details about each journey, including:
 
-• Type of Ticket: Information on various ticket categories such as standard, first class, and off-peak.
-• Date & Time: The scheduled departure and arrival times for each journey.
+* Type of Ticket: Information on various ticket categories such as standard, first class, and off-peak.
+* Date & Time: The scheduled departure and arrival times for each journey.
 • Departure & Arrival Stations: Details of the stations at which the journey begins and ends.
 • Ticket Price: The price for each ticket, allowing for financial analysis and insights.
 • Additional Attributes: Any other relevant data that enriches the dataset, such as travel class, distance, and journey duration.
