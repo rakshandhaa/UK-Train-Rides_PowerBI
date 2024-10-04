@@ -43,8 +43,9 @@ This feature enables users to focus on the most relevant metrics for each specif
 * Gross/Net Tickets & Revenue
 * Refund Requests & Amounts
 * On-Time, Delayed, and Cancelled Rides Revenue
+
 💡 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀:
-1️ 𝗣𝗼𝗽𝘂𝗹𝗮𝗿 𝗥𝗼𝘂𝘁𝗲𝘀:
+1. 𝗣𝗼𝗽𝘂𝗹𝗮𝗿 𝗥𝗼𝘂𝘁𝗲𝘀:
 * Manchester Piccadilly to Liverpool Lime Street is the most popular route, with 4,628 rides and £16,976 in net revenue.
 * London Kings Cross to York generates the highest revenue: £179,498 from 3,922 rides.
 2️ 𝗣𝗲𝗮𝗸 𝗧𝗿𝗮𝘃𝗲𝗹 𝗧𝗶𝗺𝗲𝘀:
@@ -58,6 +59,7 @@ This feature enables users to focus on the most relevant metrics for each specif
 4️ 𝗢𝗻 𝗧𝗶𝗺𝗲 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲:
 * 86.82% of rides are on time, generating £569,651 in revenue.
 * Delayed and Cancelled rides, often due to weather and signal failures, make up 13.18%.
+  
 📍 𝗗𝗲𝗲𝗽 𝗗𝗶𝘃𝗲𝘀 𝗼𝗻 𝗗𝗲𝗹𝗮𝘆𝘀 & 𝗖𝗮𝗻𝗰𝗲𝗹𝗹𝗮𝘁𝗶𝗼𝗻𝘀:
 * Delayed Rides: Liverpool Lime Street to London Euston has the highest number of delayed rides (780).
 * Cancelled Rides: Manchester Piccadilly to Liverpool Lime Street sees the most cancellations (290), with staff shortages being a key factor.
